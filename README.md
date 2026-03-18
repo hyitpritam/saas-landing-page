@@ -7,13 +7,9 @@ This project is designed with a clean UI, smooth user experience, and mobile-fir
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here)
+👉 https://hyitpritam.github.io/saas-landing-page/
 
----
 
-## 📸 Preview
-
-(Add screenshot here)
 
 ---
 
